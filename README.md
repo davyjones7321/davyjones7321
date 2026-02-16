@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @davyjones7321
+- 👋 Hi, I’m Abdul Khader
 - 👀 I’m interested in anything which is intersting
 - 🌱 I’m currently doing my computer science degree
-- 💞️ I’m looking to collaborate on .....(no idea yet)
+- 💞️ I’m looking to collaborate on Frontend development, Backend development, Deep learning modles, LLms, anything which is intersting too learn :) .
 - 📫 How to reach me khader7321@gmail.com
-- 😄 Pronouns: .....
-- ⚡ Fun fact: ...
+  
 
 <!---
 davyjones7321/davyjones7321 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
